@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rainingsheeps.github.io/meghna/it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rainingsheeps.github.io/meghna/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://rainingsheeps.github.io/meghna/it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rainingsheeps.github.io/meghna/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rainingsheeps.github.io/meghna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://rainingsheeps.github.io/meghna/it/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rainingsheeps.github.io/meghna/it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rainingsheeps.github.io/meghna/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://rainingsheeps.github.io/meghna/it/tags/"
+                />
+  </url>
+  
+</urlset>
